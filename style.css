@@ -31,7 +31,7 @@ button, select
     display: flex;
     justify-content: space-between;
     gap: 10%;
-    margin-left: calc((100vw - 1400px) / 1.5);
+    margin-left: calc((100vw - 1200px) / 2.5);
 }
 
 .background-blur
@@ -245,7 +245,7 @@ button, select
     padding-left: 16px;
 
     appearance: none;
-    background: url("./images/select-arrow.svg") no-repeat right 1rem center;
+    background: url("./images/select_arrow2.svg") no-repeat right 1rem center;
 }
 
 .header-right-nav-sign-up
@@ -379,7 +379,7 @@ button, select
     display: flex;
     justify-content: flex-start;
     flex-direction: row;
-    margin-left: calc((100vw - 1400px) / 1.5);
+    margin-left: calc((100vw - 1200px) / 2.5);
     max-width: 100vw;
     overflow: hidden;
     position: relative;
@@ -413,7 +413,7 @@ button, select
     display: flex;
     align-items: center;
     flex-direction: row;
-    column-gap: 20vw;   /*Change!!*/
+    column-gap: 13vw;
     margin-top: -43px;
 }
 
@@ -648,7 +648,7 @@ button, select
     margin-top: 0;
     display: flex;
     justify-content: flex-start;
-    margin-left: calc((100vw - 1400px) / 1.5);
+    margin-left: calc((100vw - 1200px) / 2.5);
     max-width: 100vw;
     overflow: hidden;
     position: relative;
@@ -843,7 +843,7 @@ button, select
 .ready-to-sell-right
 {
     margin-top: 50px;
-    margin-left: 15vw;
+    margin-left: 20vw;
     position: relative;
 }
 
@@ -1251,7 +1251,7 @@ button, select
 {
     margin-top: 200px;
     display: flex;
-    margin-left: calc((100vw - 1400px) / 1.5);
+    margin-left: calc((100vw - 1200px) / 2.5);
     position: relative;
     max-width: 100vw;
     overflow: hidden;
