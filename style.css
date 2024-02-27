@@ -228,7 +228,7 @@ button, select
     font-family: var(--font-family-val);
     font-weight: 600;
     font-size: 14px;
-    line-height: 17.5px;
+    line-height: 17px;
 }
 
 .header-right-nav-select
@@ -241,7 +241,7 @@ button, select
     font-family: var(--font-family-val);
     font-weight: 600;
     font-size: 14px;
-    line-height: 17.5px;
+    line-height: 17px;
     padding-left: 16px;
 
     appearance: none;
@@ -403,7 +403,7 @@ button, select
 {
     font-weight: 400;
     font-size: 14px;
-    line-height: 17.5px;
+    line-height: 17px;
     color: #F59E0B;
     margin-top: 45px;
 }
@@ -546,7 +546,7 @@ button, select
     bottom: 19px;
     font-weight: 500;
     font-size: 14px;
-    line-height: 17.5px;
+    line-height: 17px;
     padding: 9px 20px 9px 40px;
 }
 
@@ -689,7 +689,7 @@ button, select
     color: #F59E0B;
     font-weight: 400;
     font-size: 14px;
-    line-height: 17.5px;
+    line-height: 17px;
 }
 
 .ready-to-sell-left-header
@@ -879,7 +879,7 @@ button, select
 {
     font-weight: 500;
     font-size: 14px;
-    line-height: 17.5px;
+    line-height: 17px;
     color: #F59E0B;
     white-space: nowrap;
     margin-top: 8px;
@@ -1043,7 +1043,7 @@ button, select
 {
     font-weight: 500;
     font-size: 14px;
-    line-height: 17.5px;
+    line-height: 17px;
     color: #F59E0B;
     white-space: nowrap;
     margin-top: 8px;
@@ -1318,7 +1318,7 @@ button, select
 {
     font-weight: 600;
     font-size: 18px;
-    line-height: 22.5px;
+    line-height: 22px;
     color: #0E1735;
 }
 
@@ -1336,7 +1336,7 @@ button, select
     margin-bottom: 20px;
     font-weight: 400;
     font-size: 14px;
-    line-height: 17.5px;
+    line-height: 17px;
     text-decoration: none;
     color: #888B97;
 }
