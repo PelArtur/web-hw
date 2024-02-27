@@ -843,7 +843,7 @@ button, select
 .ready-to-sell-right
 {
     margin-top: 50px;
-    margin-left: 20vw;
+    margin-left: 10vw;
     position: relative;
 }
 
@@ -1034,7 +1034,7 @@ button, select
 .user-posts-blur
 {
     position: absolute;
-    left: 0;
+    left: -10px;
     z-index: -2;
     top: -250px;
 }
